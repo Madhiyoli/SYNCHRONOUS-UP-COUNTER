@@ -37,14 +37,18 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 Developed by: RegisterNumber:
 */
 
-**RTL LOGIC UP COUNTER**!(https://github.com/user-attachments/assets/9dc98f5c-efb5-4dd8-a02b-647fed6cef30)
+**RTL LOGIC UP COUNTER**
+![rtl](https://github.com/user-attachments/assets/5b479adb-bc4e-4a25-bd41-9ae3be2246a4)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**!(https://github.com/user-attachments/assets/f07743cb-c545-4b29-bb61-bd132f511a33)
+**TIMING DIAGRAM FOR IP COUNTER**
+![output](https://github.com/user-attachments/assets/01d75d80-9c9a-4df4-824c-d76e363f5b66)
 
 
-**TRUTH TABLE**!(https://github.com/user-attachments/assets/1e00c133-5ebe-42b3-9b55-50e769c60532)
 
+
+**TRUTH TABLE**
+![truth table](https://github.com/user-attachments/assets/329230c9-54e5-4eef-b682-fc990e52c687)
 
 **RESULTS**
 this is verified by protus
