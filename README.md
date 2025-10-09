@@ -44,11 +44,8 @@ Developed by: RegisterNumber:
 **TIMING DIAGRAM FOR IP COUNTER**
 ![output](https://github.com/user-attachments/assets/01d75d80-9c9a-4df4-824c-d76e363f5b66)
 
-
-
-
 **TRUTH TABLE**
 ![truth table](https://github.com/user-attachments/assets/329230c9-54e5-4eef-b682-fc990e52c687)
 
 **RESULTS**
-this is verified by protus
+this is verified 
